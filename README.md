@@ -10,7 +10,8 @@ C'est le prototype de l'édition 1 de La Batcave : https://www.labatcave.tech/
   npm install
 ```
 
-2. Remplace ces variables
+2. Remplace ces variables par l'URL d'un gmeet que tu viens de lancer
+   Et le mail et password du compte google dédié à ton visibot
 
 ```
   const URLGmeet = 'https://meet.google.com/XXX-XXXX-XXX';
@@ -24,7 +25,7 @@ C'est le prototype de l'édition 1 de La Batcave : https://www.labatcave.tech/
   npm run watch
 ```
 
-4. Exécute-le
+4. Lance-le et voilà !
 
 ```sh
   npm start
